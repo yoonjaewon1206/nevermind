@@ -8,8 +8,9 @@ permalink: /
 # Hi !!
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  ㄲㄲ<span style="font-weight: bold">[[마인드맵 구경하기]]</span> ㄱ ㄱ
+  ㄲㄲ<span style="font-weight: bold">[[see mindmap]]</span> ㄱ ㄱ
 </p>
+
 
  [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll).
 
